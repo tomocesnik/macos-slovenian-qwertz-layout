@@ -1,0 +1,1 @@
+# macos-slovenian-qwertz-layout
